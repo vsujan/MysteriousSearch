@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0C58B6044A621531D7FB83D104342A8BE67E4177",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B054DB2475F5630340D873928F3BD621EBA21765" : 0,
+    "0C58B6044A621531D7FB83D104342A8BE67E4177" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1F7A5419-5CAB-43B6-BC80-ABA67EB55F0D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B054DB2475F5630340D873928F3BD621EBA21765" : "MysteriousSearch\/MysteriousSearch\/RTImageAssets\/",
+    "0C58B6044A621531D7FB83D104342A8BE67E4177" : "MysteriousSearch\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MysteriousSearch",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MysteriousSearch.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:vsujan\/MysteriousSearch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C58B6044A621531D7FB83D104342A8BE67E4177"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:rickytan\/RTImageAssets.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B054DB2475F5630340D873928F3BD621EBA21765"
+    }
+  ]
+}
